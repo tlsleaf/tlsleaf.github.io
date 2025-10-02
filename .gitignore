@@ -1,0 +1,3 @@
+# 민감 파일 무시
+.env
+secrets.json
